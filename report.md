@@ -1,0 +1,15 @@
+if you want **bold**  then use stars
+# sizes of the thing 
+- item 1 
+- item 2 
+- item 3
+
+1. item 1
+2. item 2
+1. item 3
+
+
+- item
+  - list
+  -list
+    -subsub list
